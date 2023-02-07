@@ -26,3 +26,5 @@ docker-compose down
 ```
 
 Navigate to http://localhost:3000 in your browser.
+
+Mongo Express http://localhost:4444 in your browser.
